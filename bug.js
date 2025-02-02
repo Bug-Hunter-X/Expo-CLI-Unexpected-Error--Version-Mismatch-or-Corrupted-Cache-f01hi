@@ -1,0 +1,1 @@
+This error typically occurs when there's a mismatch between the version of Expo CLI installed on your system and the project's dependencies or the Expo SDK version specified in your app's `app.json` or `expo.json` file.  It can also manifest if you have conflicting versions of Node.js or npm/yarn installed, or if there are corrupted Expo CLI caches.
